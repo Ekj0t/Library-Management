@@ -1,6 +1,6 @@
-package com.lpu.view;
+package com.LibraryManagementSystem.driver;
 
-import com.lpu.controller.Library;
+import com.LibraryManagementSystem.controller.Library;
 import java.util.Scanner;
 
 public class Driver {
