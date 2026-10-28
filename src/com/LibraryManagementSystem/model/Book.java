@@ -1,4 +1,4 @@
-package com.lpu.model;
+package com.LibraryManagementSystem.model;
 
 public class Book {
 
