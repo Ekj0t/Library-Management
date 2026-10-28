@@ -1,6 +1,6 @@
-package com.lpu.controller;
+package com.LibraryManagementSystem.controller;
 
-import com.lpu.model.Book;
+import com.LibraryManagementSystem.model.Book;
 import java.util.ArrayList;
 
 public class Library {
